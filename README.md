@@ -1,2 +1,2 @@
 # MECH105-Algorithms
-Numerical algorithms used in Mech 105
+Algorithms created using numerical methods learned in Mech 105
